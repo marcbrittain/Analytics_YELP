@@ -1,6 +1,6 @@
 
 # Restaurant Rating Finder 
-* Created By: Marc Brittain
+* Created By: *Marc Brittain*
 
 The function of this tool is to use the improve upon the already built YELP API package. In creating this tool, I followed the recommended advice from the YELP website which suggested to store your personal API key and information in a seperate file and to then call the file itself. The functions are built assuming one has stored the API information as recommended from YELP. These particular functions are made for accessing restaurant information for multiple cities. The max restaurants that can be returned for a given city is 1000, and note that YELP only allows 25,000 calls per day so the max amount of cities are 25. My goal was to create this easy-to-use package to help access the abundance of information on the YELP API. More analytical tools are currently in progress. Let's begin with a quick tutorial.
 
